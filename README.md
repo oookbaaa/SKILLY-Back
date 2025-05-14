@@ -182,9 +182,7 @@ This project is licensed under the MIT License.
 
 ## 🎓 Acknowledgments
 
-- **Esprit School of Engineering** for academic guidance
 - The NestJS and open-source communities
 - All contributors involved in the backend system design
 
-> 💡 *This backend was built as part of a full-stack project for the “Full-Stack Web Development” course at Esprit School of Engineering.*
 
